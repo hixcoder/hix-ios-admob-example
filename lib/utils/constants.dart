@@ -1,8 +1,4 @@
 class Constants {
-  static const String appName = 'Performance Monitor';
-  static const int maxDataPoints = 60;
-  static const Duration updateInterval = Duration(milliseconds: 1000);
-
   // app settings
   static String appLink = "";
   static String moreAppsLink = "";
