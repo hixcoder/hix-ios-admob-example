@@ -2,10 +2,8 @@ import 'package:flutter/material.dart';
 
 class Config {
   // variables you could change
-  static const Color mainColor = Color(0xff1e2831);
-  static const Color secondColor = Color.fromARGB(255, 130, 239, 156);
-  static const String appName = "";
   static const int splashTime = 5;
+  static const String appStoreId = "";
 
   static const String jsonLink =
       "https://drive.google.com/uc?export=download&id=1xsmUFTrmRJLlwhpTIH1loBpRXG2jQv3M";
